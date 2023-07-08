@@ -32,6 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
-### Env Files ###
+### ENV Files ###
 .env
 .env.example
+
+### DB Entry File ###
+db-data/
