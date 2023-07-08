@@ -37,4 +37,4 @@ build/
 .env.example
 
 ### DB Entry File ###
-db-data/
+/db-data/
